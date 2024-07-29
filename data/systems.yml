@@ -15,6 +15,9 @@
 - name: Real Solar System
   folderName: rss
 
+- name: Epsilon Eridani
+  folderName: epsiloneridani
+
 - name: Stock (KSP2)
   folderName: stock2
 
