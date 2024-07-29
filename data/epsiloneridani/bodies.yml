@@ -33,9 +33,9 @@
   atmosphereAlt:      1550000.0
   mass:               1.8981246710786271e+27
   stdGravParam:       126686534921800800
-  soi:                48196176124.28713
+  soi:                31500717658.494736
   orbit:
-    semiMajorAxis:    778188938659.7554
+    semiMajorAxis:    508632760380
     eccentricity:     0
     inclination:      0.1
     argOfPeriapsis:   90
@@ -105,10 +105,10 @@
   radius:             57216000
   atmosphereAlt:      2000000.0
   mass:               5.6831738906929933e+26
-  stdGravParam:       37931207498652240
-  soi:                54475312962.69387
+  stdGravParam:       3.793121602341308e+16
+  soi:                51475661355.39358
   orbit:
-    semiMajorAxis:    1424838758613.269
+    semiMajorAxis:    1346380836300
     eccentricity:     0
     inclination:      0
     argOfPeriapsis:   0
@@ -250,11 +250,11 @@
   name:               NotUranus
   radius:             24702000
   atmosphereAlt:      1400000.0
-  mass:               8.680987253013813e+25
-  stdGravParam:       5793951322279009
-  soi:                51692514225.02219
+  mass:               1.8981246710786271e+26
+  stdGravParam:       1.2668656339367086e+16
+  soi:                92213169608.71072
   orbit:
-    semiMajorAxis:    2866832853163.975
+    semiMajorAxis:    3739946767500
     eccentricity:     0
     inclination:      0
     argOfPeriapsis:   0
@@ -359,11 +359,11 @@
   name:               NotNeptune
   radius:             24085000
   atmosphereAlt:      1250000.0
-  mass:               1.0240923396370664e+26
-  stdGravParam:       6835099502439672
-  soi:                86636358530.1769
+  mass:               1.8981246710786271e+26
+  stdGravParam:       1.2668656339367086e+16
+  soi:                147541071373.93713
   orbit:
-    semiMajorAxis:    4497455832811.736
+    semiMajorAxis:    5983914828000
     eccentricity:     0
     inclination:      0
     argOfPeriapsis:   0
